@@ -1,15 +1,3 @@
-
-# Copyright (c) 2017 Siphon Contributors.
-# Distributed under the terms of the BSD 3-Clause License.
-# SPDX-License-Identifier: BSD-3-Clause
-"""
-Wyoming Upper Air Data Request
-==============================
-
-This example shows how to use siphon's `simplewebswervice` support to create a query to
-the Wyoming upper air archive.
-"""
-
 from datetime import datetime
 
 
