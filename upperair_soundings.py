@@ -14,8 +14,7 @@ import sys
 # Getting Data
 # ------------
 #
-# Upper air data can be obtained using the siphon package, but for this tutorial we will use
-# some of MetPy's sample data. This event is the Veterans Day tornado outbreak in 2002.
+# Upper air data can be obtained using the siphon package
 
 # We will pull the data out of the example dataset into individual variables and
 # assign units.
