@@ -1,14 +1,3 @@
-# Copyright (c) 2018 MetPy Developers.
-# Distributed under the terms of the BSD 3-Clause License.
-# SPDX-License-Identifier: BSD-3-Clause
-"""
-======================
-Cross Section Analysis
-======================
-
-The MetPy function `metpy.interpolate.cross_section` can obtain a cross-sectional slice through
-gridded data.
-"""
 from netCDF4 import Dataset,num2date
 
 from cdo import Cdo
