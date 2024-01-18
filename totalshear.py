@@ -14,8 +14,8 @@ from metpy.units import units
 
 import sys
 # Create a datetime object for the sounding and string of the station identifier.
-date = datetime(2020, 3, 26, 0)
-station = '43346'
+date = datetime(2024, 1, 18, 0)
+station = '42809'
 
 ####################################################
 # Make the request (a pandas dataframe is returned).
