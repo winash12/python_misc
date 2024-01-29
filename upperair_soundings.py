@@ -20,7 +20,7 @@ import sys
 # assign units.
 ####################################################
 # Create a datetime object for the sounding and string of the station identifier.
-date = datetime(2024, 1, 21, 0)
+date = datetime(2024, 1, 29, 0)
 station = '42971'
 
 ####################################################
