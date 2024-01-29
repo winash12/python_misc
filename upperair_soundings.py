@@ -20,8 +20,8 @@ import sys
 # assign units.
 ####################################################
 # Create a datetime object for the sounding and string of the station identifier.
-date = datetime(2024, 1, 15, 0)
-station = '42379'
+date = datetime(2024, 1, 21, 0)
+station = '42971'
 
 ####################################################
 # Make the request (a pandas dataframe is returned).
